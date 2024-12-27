@@ -65485,7 +65485,7 @@ A.a6S.prototype={
 $0(){this.a.f=this.b},
 $S:0}
 A.a6W.prototype={
-$2(a8,a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d="sm",c=$.bu.N(),b=$.bj.N(),a=$.bu.N(),a0=$.bj.N(),a1=A.b([B.n,B.n,B.n],t.t_),a2=$.bu.N(),a3=$.bj.N(),a4=A.f3(15),a5=A.acV(B.du,new A.fT("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86bb95b3-e319-46d5-a8e5-1d7f3d1cbf70/dflzdkw-2d4e8e14-4a2b-4c58-852c-aff3a225eabf.jpg/v1/fill/w_720,h_324,q_75,strp/dino_banner_for_discord_by_lleanxw_dflzdkw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzI0IiwicGF0aCI6IlwvZlwvODZiYjk1YjMtZTMxOS00NmQ1LWE4ZTUtMWQ3ZjNkMWNiZjcwXC9kZmx6ZGt3LTJkNGU4ZTE0LTRhMmItNGM1OC04NTJjLWFmZjNhMjI1ZWFiZi5qcGciLCJ3aWR0aCI6Ijw9NzIwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.RgxGJcunIXHXT1ddoIopU9Hk9qNkB5bjsi9hJhqVOks",1,e),e),a6=this.a,a7=t.nL
+$2(a8,a9){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d="sm",c=$.bu.N(),b=$.bj.N(),a=$.bu.N(),a0=$.bj.N(),a1=A.b([B.n,B.n,B.n],t.t_),a2=$.bu.N(),a3=$.bj.N(),a4=A.f3(15),a5=A.acV(B.du,new A.fT("https://cdn.pfps.gg/banners/3760-madeon.gif",1,e),e),a6=this.a,a7=t.nL
 a2=A.ahv(A.d7(e,A.ajB(new A.a6M(),a6.jY(a8),a7),B.u,e,new A.c7(B.M,a5,e,a4,e,e,B.ag),e,25*a3/100,e,new A.b9(15,15,15,15),e,e,40*a2/100))
 a3=A.b5(e,$.bj.N()/100,e)
 a4=$.bj.N()
